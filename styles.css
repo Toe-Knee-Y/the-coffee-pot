@@ -12,6 +12,13 @@ body {
     margin: 0 auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* NAVBAR STUFF */
 
 header {
