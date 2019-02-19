@@ -61,6 +61,11 @@ nav a {
 }
 
 /* Notes Stuff */
-.notes {
+.notes-list {
     line-height: 200%;
+}
+
+.notes-list a {
+    text-decoration: none;
+    color: black;
 }
