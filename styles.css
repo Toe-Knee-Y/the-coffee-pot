@@ -48,10 +48,20 @@ nav ul {
     text-align: center;
     display: inline-block;
 }
-
+/*
+todo: fix up the hover text colors 
+*/
 nav li {
     display: inline-block;
     margin-left: 70px;
+}
+
+nav li:hover {  
+    background-color: aquamarine;
+}
+
+nav li a:hover {  
+    color: white;ß
 }
 
 nav a {
